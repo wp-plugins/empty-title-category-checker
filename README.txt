@@ -19,18 +19,11 @@ Checks if title is empty or if no category or category "no category" is checked 
 1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
-== Frequently asked questions ==
+== Screenshots ==
 
-= A question that someone might have =
-
-An answer to that question.
+1. As you see messages showing when title or category is empty
 
 == Changelog ==
 
-
-
-== Upgrade notice ==
-
-
-
-== Arbitrary section 1 ==
+= 1.0.1 =
+* Initial release.
